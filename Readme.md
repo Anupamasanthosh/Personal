@@ -10,7 +10,6 @@ A personal portfolio website showcasing my projects, skills, and professional ex
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
